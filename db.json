@@ -7,10 +7,10 @@
   "angular": 50 
   },
   "skills": {
-   "1": "HTML5",
-    "2": "CSS3",
-    "3": "JavaScipt",
-    "4": "TypeScript"   
+   "name1": "HTML5",
+    "name2": "CSS3",
+    "name3": "JavaScipt",
+    "name4": "TypeScript"   
   }
   
 }
