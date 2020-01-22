@@ -5,5 +5,12 @@
   "js": 65,
   "ts": 65,
   "angular": 50 
+  },
+  "skills": {
+   "html5": "HTML5",
+    "css3": "CSS3",
+    "js": "JavaScipt",
+    "ts": "TypeScript"   
   }
+  
 }
