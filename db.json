@@ -9,18 +9,22 @@
   "skills": {
    "HTML5": {
      "id": 1,
+     "name": "HTML5",
      "desc": "Hipertekstowy język znaczników, wykorzystywany do tworzenia dokumentów hipertekstowych."
    },
     "CSS3": {
      "id": 2,
+     "name": "CSS3",
      "desc": "Język służący do opisu formy prezentacji (wyświetlania) stron WWW."
     },
     "JavaScipt": {
      "id": 3,
+     "name": "JavaScript",
      "desc": " Skryptowy język programowania, stworzony przez firmę Netscape, najczęściej stosowany na stronach internetowych."
     },
     "TypeScript": {
      "id": 4,
+     "name": "TypeScript",
      "desc": " Wolny i otwartoźródłowy język programowania stworzony przez firmę Microsoft jako nadzbiór języka JavaScript."
     }   
   }
