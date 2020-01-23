@@ -6,7 +6,7 @@
   "ts": 65,
   "angular": 50 
   },
-  "skills": {
+  "skills": [
     {
      "id": 1,
      "name": "HTML5",
@@ -27,6 +27,6 @@
      "name": "TypeScript",
      "desc": " Wolny i otwartoźródłowy język programowania stworzony przez firmę Microsoft jako nadzbiór języka JavaScript."
     }   
-  }
+  ]
   
 }
