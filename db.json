@@ -41,6 +41,12 @@
      "userId": 3, 
      "login": "admin3"
     }
+   ],
+  "serviceDest": [
+    {
+     "serviceId": 1, 
+     "service": "MailUslOut"
+    } 
    ]
   
 }
