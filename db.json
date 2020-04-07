@@ -34,12 +34,8 @@
      "login": "admin"
     },
     {
-     "userId": 2, 
-     "login": "admin1"
-    },
-    {
-     "userId": 3, 
-     "login": "admin3"
+     "userId": 5, 
+     "login": "pawelm"
     }
    ],
   "serviceDest": [
